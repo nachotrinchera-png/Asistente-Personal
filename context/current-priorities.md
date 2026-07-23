@@ -2,6 +2,8 @@
 
 _Actualizado: 2026-07-23_
 
+**Vacaciones de Nacho:** 1 al 15 de agosto de 2026.
+
 1. **Bernabéu Studios x Patrocinio (juegos CUE)** — Cerrar la activación de patrocinadores en los juegos de CUE para partidos dedicados. Urgente, deadline 20 de agosto de 2026.
 2. **NFL — Campaña VIP** — Captación y conversión de leads para venta de hospitality del partido de NFL.
 3. **NFL — Branding** — Diseño de elementos de marca Bernabéu para NFL (vasos, minutas VIP, decoración de barras).
@@ -30,3 +32,6 @@ _Actualizado: 2026-07-23_
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
+
+## Nota
+BMW rótulo, Unicaja y Pieza NFL x Bernabéu tienen deadline el 1 de agosto, justo el día en que Nacho empieza sus vacaciones. En la práctica conviene cerrarlos o dejarlos delegados antes del 31 de julio.
