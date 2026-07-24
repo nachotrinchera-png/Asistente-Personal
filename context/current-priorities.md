@@ -14,7 +14,7 @@ _Actualizado: 2026-07-23_
 
 ## Tareas puntuales — Patrocinio
 - **EA FC** — Mandar preguntas de Bernabéu para la activación del 29 de julio en tienda. Deadline: 27 de julio. Siguiente paso: hablar con Alex.
-- **BMW rótulo** — Decidir qué hacer con la comunicación del rótulo y ordenarse con BMW. Deadline: 1 de agosto.
+- **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
 - **Unicaja** — Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa; coordinar con Alex y Reyes el tema digital. Deadline: 1 de agosto.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 
