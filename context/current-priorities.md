@@ -20,7 +20,7 @@ _Actualizado: 2026-07-23_
 
 ## Tareas puntuales — NFL
 - **Creative Assets** — Reminder a Lina sobre qué pasa finalmente con la ilustración de Bernabéu en los creative assets de NFL. Deadline: 24 de julio.
-- **Pieza NFL x Bernabéu** — Que Romano comparta el plan de lanzamiento. Deadline: 1 de agosto.
+- **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 
