@@ -24,6 +24,7 @@ _Actualizado: 2026-07-23_
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
+- **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Sin deadline definido.
 
 ## Tareas puntuales — Otros
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
