@@ -20,6 +20,7 @@ _Actualizado: 2026-07-23_
 
 ## Tareas puntuales — NFL
 - **Creative Assets** — Reminder a Lina sobre qué pasa finalmente con la ilustración de Bernabéu en los creative assets de NFL. Deadline: 24 de julio.
+- **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
@@ -30,6 +31,7 @@ _Actualizado: 2026-07-23_
 ## Deadlines clave
 - 24 de julio de 2026 — Creative Assets NFL (reminder a Lina)
 - 27 de julio de 2026 — EA FC (preguntas a Alex)
+- 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Bernabéu Studios x CUE
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
