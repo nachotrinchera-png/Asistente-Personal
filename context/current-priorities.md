@@ -24,6 +24,9 @@ _Actualizado: 2026-07-23_
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 
+## Tareas puntuales — Otros
+- **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
+
 ## Deadlines clave
 - 24 de julio de 2026 — Creative Assets NFL (reminder a Lina)
 - 27 de julio de 2026 — EA FC (preguntas a Alex)
