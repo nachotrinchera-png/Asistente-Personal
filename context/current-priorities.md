@@ -17,6 +17,7 @@ _Actualizado: 2026-07-23_
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
 - **Unicaja** — Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa; coordinar con Alex y Reyes el tema digital. Deadline: 1 de agosto.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
+- **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
 
 ## Tareas puntuales — NFL
 - **Creative Assets** — Reminder a Lina sobre qué pasa finalmente con la ilustración de Bernabéu en los creative assets de NFL. Deadline: 24 de julio.
@@ -34,7 +35,7 @@ _Actualizado: 2026-07-23_
 - 27 de julio de 2026 — EA FC (preguntas a Alex)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
-- 20 de agosto de 2026 — Bernabéu Studios x CUE
+- 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
