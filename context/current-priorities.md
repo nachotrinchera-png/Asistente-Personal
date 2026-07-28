@@ -28,6 +28,7 @@ _Actualizado: 2026-07-23_
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Sin deadline definido.
+- **Colores de diseño NFL** — Definir con Alex Romano los colores de diseño para NFL. Sin deadline definido.
 
 ## Tareas puntuales — Otros
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
