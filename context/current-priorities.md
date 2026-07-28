@@ -18,6 +18,7 @@ _Actualizado: 2026-07-23_
 - **Unicaja** — Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa; coordinar con Alex y Reyes el tema digital. Deadline: 1 de agosto.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 - **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
+- **Bebidas Spirits** — Follow up con bebidas spirits; contestar por parte de F&B las dudas de patrocinio. Sin deadline definido.
 
 ## Tareas puntuales — NFL
 - **Creative Assets** — Reminder a Lina sobre qué pasa finalmente con la ilustración de Bernabéu en los creative assets de NFL. Deadline: 24 de julio.
