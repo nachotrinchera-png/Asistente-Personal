@@ -18,7 +18,6 @@ _Actualizado: 2026-07-23_
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 - **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
 - **Bebidas Spirits** — Follow up con bebidas spirits; contestar por parte de F&B las dudas de patrocinio. Sin deadline definido.
-- **Media day** — Conseguir que nos dejen un hueco en su media day. Sin deadline definido.
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
 
 ## Tareas puntuales — NFL
