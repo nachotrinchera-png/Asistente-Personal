@@ -22,7 +22,6 @@ _Actualizado: 2026-07-23_
 
 ## Tareas puntuales — NFL
 - **Ticketmaster** — Recordar a Lina el cambio de Ticketmaster. Deadline: 18 de agosto.
-- **Creative Assets** — Reminder a Lina sobre qué pasa finalmente con la ilustración de Bernabéu en los creative assets de NFL. Deadline: 24 de julio.
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
@@ -34,7 +33,6 @@ _Actualizado: 2026-07-23_
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
 
 ## Deadlines clave
-- 24 de julio de 2026 — Creative Assets NFL (reminder a Lina)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
