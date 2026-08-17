@@ -21,6 +21,7 @@ _Actualizado: 2026-07-23_
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
 
 ## Tareas puntuales — NFL
+- **Ticketmaster** — Recordar a Lina el cambio de Ticketmaster. Deadline: 18 de agosto.
 - **Creative Assets** — Reminder a Lina sobre qué pasa finalmente con la ilustración de Bernabéu en los creative assets de NFL. Deadline: 24 de julio.
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
@@ -36,6 +37,7 @@ _Actualizado: 2026-07-23_
 - 24 de julio de 2026 — Creative Assets NFL (reminder a Lina)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
+- 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
