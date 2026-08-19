@@ -13,6 +13,7 @@ _Actualizado: 2026-07-23_
 7. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
+- **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
 - **Unicaja** — Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa; coordinar con Alex y Reyes el tema digital. Deadline: 1 de agosto.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
