@@ -1,0 +1,602 @@
+<title>Overview: Patrocinio &amp; NFL</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    color-scheme: light;
+    --page:            #f9f9f7;
+    --surface:         #fcfcfb;
+    --ink:             #0b0b0b;
+    --ink-2:           #52514e;
+    --ink-muted:       #898781;
+    --grid:            #e1e0d9;
+    --border:          rgba(11,11,11,0.10);
+    --accent-sponsor:  #2a78d6;
+    --accent-nfl:      #c1550c;
+    --accent-approvals:#178f66;
+    --accent-other:    #4a3aa7;
+    --status-critical: #d03b3b;
+    --status-warning:  #a9720a;
+    --status-good:     #0ca30c;
+    --shadow: 0 1px 2px rgba(11,11,11,0.04), 0 4px 12px rgba(11,11,11,0.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --page:            #0d0d0d;
+      --surface:         #1a1a19;
+      --ink:             #ffffff;
+      --ink-2:           #c3c2b7;
+      --ink-muted:       #898781;
+      --grid:            #2c2c2a;
+      --border:          rgba(255,255,255,0.10);
+      --accent-sponsor:  #3987e5;
+      --accent-nfl:      #e07830;
+      --accent-approvals:#22b57e;
+      --accent-other:    #9085e9;
+      --status-critical: #e66767;
+      --status-warning:  #e0a72a;
+      --status-good:     #0ca30c;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page:            #0d0d0d;
+    --surface:         #1a1a19;
+    --ink:             #ffffff;
+    --ink-2:           #c3c2b7;
+    --ink-muted:       #898781;
+    --grid:            #2c2c2a;
+    --border:          rgba(255,255,255,0.10);
+    --accent-sponsor:  #3987e5;
+    --accent-nfl:      #e07830;
+    --accent-approvals:#22b57e;
+    --accent-other:    #9085e9;
+    --status-critical: #e66767;
+    --status-warning:  #e0a72a;
+    --status-good:     #0ca30c;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.35);
+  }
+  :root[data-theme="light"] {
+    color-scheme: light;
+    --page:            #f9f9f7;
+    --surface:         #fcfcfb;
+    --ink:             #0b0b0b;
+    --ink-2:           #52514e;
+    --ink-muted:       #898781;
+    --grid:            #e1e0d9;
+    --border:          rgba(11,11,11,0.10);
+    --accent-sponsor:  #2a78d6;
+    --accent-nfl:      #c1550c;
+    --accent-approvals:#178f66;
+    --accent-other:    #4a3aa7;
+    --status-critical: #d03b3b;
+    --status-warning:  #a9720a;
+    --status-good:     #0ca30c;
+    --shadow: 0 1px 2px rgba(11,11,11,0.04), 0 4px 12px rgba(11,11,11,0.05);
+  }
+
+  * { box-sizing: border-box; }
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page {
+    max-width: 1480px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  .topbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid var(--grid);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 4px;
+    text-wrap: balance;
+    letter-spacing: -0.01em;
+  }
+  .subtitle {
+    margin: 0;
+    color: var(--ink-2);
+    font-size: 0.9rem;
+  }
+
+  .filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: var(--ink-2);
+    cursor: pointer;
+    user-select: none;
+    padding: 8px 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface);
+  }
+  .filter-toggle input {
+    width: 16px;
+    height: 16px;
+    accent-color: var(--accent-sponsor);
+  }
+  .filter-toggle input:focus-visible,
+  details summary:focus-visible {
+    outline: 2px solid var(--accent-sponsor);
+    outline-offset: 2px;
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+    margin-bottom: 32px;
+    font-size: 0.78rem;
+    color: var(--ink-muted);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .dot.critical { background: var(--status-critical); }
+  .dot.warning  { background: var(--status-warning); }
+  .dot.later    { background: var(--ink-muted); }
+  .dot.tentative {
+    background: transparent;
+    border: 1.5px dashed var(--ink-muted);
+  }
+
+  .columns {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 28px;
+  }
+  @media (max-width: 1180px) {
+    .columns { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 600px) {
+    .columns { grid-template-columns: 1fr; }
+  }
+
+  .column {
+    background: color-mix(in srgb, var(--column-accent) 6%, var(--page));
+    border: 1px solid color-mix(in srgb, var(--column-accent) 30%, transparent);
+    border-radius: 16px;
+    padding: 22px 20px 24px;
+  }
+
+  .column h2 {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin: 0 0 22px;
+    padding: 6px 14px;
+    color: #fff;
+    background: var(--column-accent);
+    border-radius: 999px;
+  }
+
+  .timeline {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  .timeline::before {
+    content: "";
+    position: absolute;
+    left: 78px;
+    top: 6px;
+    bottom: 6px;
+    width: 1px;
+    background: var(--grid);
+  }
+
+  .item {
+    display: grid;
+    grid-template-columns: 60px 12px 1fr;
+    column-gap: 12px;
+    padding-bottom: 20px;
+  }
+  .item-date {
+    grid-column: 1;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.15;
+    padding-top: 1px;
+    text-align: right;
+  }
+  .item-dot {
+    grid-column: 2;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 2px solid var(--ink-muted);
+    margin-top: 6px;
+    z-index: 1;
+    justify-self: center;
+  }
+  .item-dot.critical { border-color: var(--status-critical); background: var(--status-critical); }
+  .item-dot.warning  { border-color: var(--status-warning); background: var(--status-warning); }
+  .item-dot.tentative { border-style: dashed; }
+
+  .item-card {
+    grid-column: 3;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--column-accent);
+    border-radius: 10px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+  }
+  .item-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  .item-tag {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--ink-muted);
+    font-weight: 600;
+  }
+  .pill {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 999px;
+    border: 1px solid transparent;
+  }
+  .pill.critical { color: var(--status-critical); background: color-mix(in srgb, var(--status-critical) 14%, transparent); }
+  .pill.warning  { color: var(--status-warning);  background: color-mix(in srgb, var(--status-warning) 16%, transparent); }
+  .pill.later    { color: var(--ink-2); background: color-mix(in srgb, var(--ink-muted) 16%, transparent); }
+  .pill.tentative { color: var(--ink-muted); border-color: var(--ink-muted); background: transparent; }
+
+  .item-card h3 {
+    margin: 0 0 4px;
+    font-size: 0.95rem;
+    font-weight: 600;
+  }
+  .item-card p {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--ink-2);
+    line-height: 1.45;
+  }
+  .item-next {
+    margin-top: 6px !important;
+    color: var(--ink-muted) !important;
+    font-size: 0.8rem !important;
+  }
+  .item-next strong { color: var(--ink-2); font-weight: 600; }
+  .item-next a {
+    color: var(--column-accent);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .item-next a:hover { text-decoration: underline; }
+  .item-next a:focus-visible {
+    outline: 2px solid var(--column-accent);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  details.nodate-block {
+    margin-top: 4px;
+    padding-left: 0;
+  }
+  details.nodate-block summary {
+    list-style: none;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--ink-muted);
+    padding: 10px 0;
+    border-top: 1px dashed var(--grid);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  details.nodate-block summary::-webkit-details-marker { display: none; }
+  details.nodate-block summary::before {
+    content: "▸";
+    display: inline-block;
+    transition: transform 0.15s ease;
+    font-size: 0.7rem;
+  }
+  details.nodate-block[open] summary::before { transform: rotate(90deg); }
+  .nodate-list {
+    list-style: none;
+    margin: 0 0 8px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .nodate-list .item-card { margin-left: 0; }
+  .nodate-list li { list-style: none; }
+
+  /* Urgent-only filter */
+  body.filter-urgent .item[data-window="later"],
+  body.filter-urgent .item[data-window="tentative"],
+  body.filter-urgent details.nodate-block {
+    display: none;
+  }
+</style>
+
+<div class="page">
+  <header class="topbar">
+    <div>
+      <h1>Overview: Patrocinio &amp; NFL</h1>
+      <p class="subtitle">Nacho · Estadio Santiago Bernabéu · Actualizado 23 de julio de 2026</p>
+    </div>
+    <label class="filter-toggle">
+      <input type="checkbox" id="urgentOnly">
+      <span>Solo próximas 2 semanas</span>
+    </label>
+  </header>
+
+  <div class="legend">
+    <span class="legend-item"><span class="dot critical"></span>Urgente, menos de 6 días</span>
+    <span class="legend-item"><span class="dot warning"></span>Próximo, menos de 15 días</span>
+    <span class="legend-item"><span class="dot later"></span>Programado</span>
+    <span class="legend-item"><span class="dot tentative"></span>Tentativo</span>
+  </div>
+
+  <main class="columns">
+    <section class="column" style="--column-accent: var(--accent-sponsor)">
+      <h2>Patrocinio</h2>
+      <ol class="timeline">
+
+        <li class="item" data-window="urgent">
+          <div class="item-date">urgente</div>
+          <div class="item-dot critical"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill critical">Urgente</span></div>
+            <h3>Valoraciones</h3>
+            <p>Trabajar las valoraciones con Fernando y Josep.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="soon">
+          <div class="item-date">1 ago</div>
+          <div class="item-dot warning"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill warning">Próximo</span></div>
+            <h3>BMW rótulo</h3>
+            <p>Decidir qué hacer con la comunicación del rótulo y ordenarse con BMW.</p>
+            <p class="item-next"><strong>Estado:</strong> especificaciones enviadas a Apple Tree, pendiente de su propuesta de mensaje.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="soon">
+          <div class="item-date">1 ago</div>
+          <div class="item-dot warning"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill warning">Próximo</span></div>
+            <h3>Unicaja</h3>
+            <p>Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa.</p>
+            <p class="item-next"><strong>Siguiente paso:</strong> coordinar con Alex y Reyes el tema digital.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="later">
+          <div class="item-date">20 ago</div>
+          <div class="item-dot"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span><span class="pill later">Activo</span></div>
+            <h3>Bernabéu Studios x CUE</h3>
+            <p>Cerrar la activación de patrocinadores en los juegos de CUE para partidos dedicados.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="later">
+          <div class="item-date">20 ago</div>
+          <div class="item-dot"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill later">Programado</span></div>
+            <h3>Naming rights</h3>
+            <p>Revisar el documento de naming rights con Chiara.</p>
+            <p class="item-next"><strong>Cuándo:</strong> a la vuelta de vacaciones.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="later">
+          <div class="item-date">31 ago</div>
+          <div class="item-dot"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill later">Programado</span></div>
+            <h3>Pantallas GA</h3>
+            <p>Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA.</p>
+            <p class="item-next"><strong>Objetivo:</strong> primer partido de temporada.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="later">
+          <div class="item-date">sep</div>
+          <div class="item-dot"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill later">Programado</span></div>
+            <h3>Banco de imágenes</h3>
+            <p>Crear banco de imágenes de Bernabéu para Patrocinio.</p>
+          </div>
+        </li>
+
+      </ol>
+
+      <details class="nodate-block">
+        <summary>Sin fecha definida (2)</summary>
+        <ul class="nodate-list">
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span></div>
+            <h3>Bebidas Spirits</h3>
+            <p>Follow up con bebidas spirits; contestar por parte de F&amp;B las dudas de patrocinio.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span></div>
+            <h3>UTV Bernabéu x EA FC</h3>
+            <p>Follow up.</p>
+            <p class="item-next"><strong>Notas:</strong> petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco.</p>
+          </li>
+        </ul>
+      </details>
+    </section>
+
+    <section class="column" style="--column-accent: var(--accent-nfl)">
+      <h2>NFL</h2>
+      <ol class="timeline">
+
+        <li class="item" data-window="soon">
+          <div class="item-date">29 jul</div>
+          <div class="item-dot warning"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span><span class="pill warning">Próximo</span></div>
+            <h3>Tour</h3>
+            <p>Posible exposición temporal de NFL en el Tour del Bernabéu (tentativo, oct-nov).</p>
+            <p class="item-next"><strong>Siguiente paso:</strong> recordar a The Team que mande las medidas para valorar el montaje.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="soon">
+          <div class="item-date">1 ago</div>
+          <div class="item-dot warning"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill warning">Próximo</span></div>
+            <h3>Pieza NFL x Bernabéu</h3>
+            <p>Romano debe compartir el plan de lanzamiento.</p>
+            <p class="item-next"><strong>Estado:</strong> recordatorio enviado el 23 de julio, pendiente de respuesta.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="urgent">
+          <div class="item-date">18 ago</div>
+          <div class="item-dot critical"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span><span class="pill critical">Urgente</span></div>
+            <h3>Ticketmaster</h3>
+            <p>Recordar a Lina el cambio de Ticketmaster.</p>
+          </div>
+        </li>
+
+        <li class="item" data-window="tentative">
+          <div class="item-date">27 sep</div>
+          <div class="item-dot tentative"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span><span class="pill tentative">Tentativo</span></div>
+            <h3>Watchparty</h3>
+            <p>Posible organización de una watchparty en el Bernabéu para el partido de NFL.</p>
+          </div>
+        </li>
+
+      </ol>
+
+      <details class="nodate-block">
+        <summary>Sin fecha definida (8)</summary>
+        <ul class="nodate-list">
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span></div>
+            <h3>Campaña VIP</h3>
+            <p>Captación y conversión de leads para venta de hospitality del partido de NFL.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span></div>
+            <h3>Branding</h3>
+            <p>Diseño de elementos de marca Bernabéu para NFL: vasos, minutas VIP, decoración de barras.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span></div>
+            <h3>Contenidos RRSS</h3>
+            <p>Contenidos de redes sociales relacionados con NFL en cuentas del Bernabéu. Flujo recurrente.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Proyecto</span></div>
+            <h3>Madridistas</h3>
+            <p>Acciones conjuntas con la comunidad Madridista (BBDD) y NFL.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span></div>
+            <h3>VIP creative assets</h3>
+            <p>Recibir los creative assets de VIP.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span></div>
+            <h3>Fotos landing VIP</h3>
+            <p>Cambiar las fotos de la landing VIP de NFL.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span></div>
+            <h3>RMTV espacio partido</h3>
+            <p>Hablar con Lina sobre el espacio de RMTV el día del partido.</p>
+          </li>
+          <li class="item-card">
+            <div class="item-head"><span class="item-tag">Tarea</span></div>
+            <h3>Colores de diseño NFL</h3>
+            <p>Definir con Alex Romano los colores de diseño para NFL.</p>
+          </li>
+        </ul>
+      </details>
+    </section>
+
+    <section class="column" style="--column-accent: var(--accent-approvals)">
+      <h2>Aprobaciones RRSS</h2>
+      <ol class="timeline">
+
+        <li class="item" data-window="later">
+          <div class="item-date">23 ago</div>
+          <div class="item-dot"></div>
+          <div class="item-card">
+            <div class="item-head"><span class="item-tag">Contenido</span><span class="pill later">Programado</span></div>
+            <h3>Roborock</h3>
+            <p>Vídeo de la roomba aspirando en el Bernabéu, Instagram.</p>
+            <p class="item-next"><strong>Siguiente paso:</strong> pendiente de que Romano dé el OK.</p>
+          </div>
+        </li>
+
+      </ol>
+    </section>
+
+    <section class="column" style="--column-accent: var(--accent-other)">
+      <h2>Otros</h2>
+      <ul class="nodate-list">
+        <li class="item-card">
+          <div class="item-head"><span class="item-tag">Tarea</span></div>
+          <h3>Santos Bravos</h3>
+          <p>Gestionar la visita de Santos Bravos al Bernabéu.</p>
+          <p class="item-next"><a href="https://www.instagram.com/santos_bravos/?hl=es" target="_blank" rel="noopener noreferrer">Ver Instagram ↗</a></p>
+        </li>
+      </ul>
+    </section>
+  </main>
+</div>
+
+<script>
+  document.getElementById('urgentOnly').addEventListener('change', function (e) {
+    document.body.classList.toggle('filter-urgent', e.target.checked);
+  });
+</script>
