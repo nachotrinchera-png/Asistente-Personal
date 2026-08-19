@@ -35,11 +35,14 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Sin deadline definido.
 - **Colores de diseño NFL** — Definir con Alex Romano los colores de diseño para NFL. Sin deadline definido.
+- **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 
 ## Tareas puntuales — Otros
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
+- **Ficha NFL web Bernabéu** — Cambiar la ficha de NFL en la web del Bernabéu. Deadline: próximo lunes.
 
 ## Deadlines clave
+- Próximo lunes — Ficha NFL en la web del Bernabéu
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
@@ -47,6 +50,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Semana del 23 de agosto de 2026 — Roborock, OK de Romano (aprobación RRSS)
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu
+- Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
 
