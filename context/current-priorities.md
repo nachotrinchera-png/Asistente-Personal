@@ -22,6 +22,10 @@ _Actualizado: 2026-07-23_
 - **Bebidas Spirits** — Follow up con bebidas spirits; contestar por parte de F&B las dudas de patrocinio. Sin deadline definido.
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
 
+## Aprobaciones RRSS pendientes (Patrocinio)
+Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
+- **Roborock** — Vídeo de la roomba aspirando en el Bernabéu, Instagram. Pendiente de que Romano dé el OK. Fecha objetivo: semana del 23 de agosto.
+
 ## Tareas puntuales — NFL
 - **Ticketmaster** — Recordar a Lina el cambio de Ticketmaster. Deadline: 18 de agosto.
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
@@ -39,6 +43,7 @@ _Actualizado: 2026-07-23_
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
+- Semana del 23 de agosto de 2026 — Roborock, OK de Romano (aprobación RRSS)
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
