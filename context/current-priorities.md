@@ -21,6 +21,8 @@ _Actualizado: 2026-07-23_
 - **Banco de imágenes** — Crear banco de imágenes de Bernabéu para Patrocinio. Deadline: septiembre de 2026.
 - **Bebidas Spirits** — Follow up con bebidas spirits; contestar por parte de F&B las dudas de patrocinio. Sin deadline definido.
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
+- **Uber Eats** — Follow up con Sergio/Ángel. Sin deadline definido.
+- **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
