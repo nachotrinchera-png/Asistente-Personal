@@ -37,6 +37,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Deadline: septiembre de 2026.
 - **Colores de diseño NFL** — Definir con Alex Romano los colores de diseño para NFL. Sin deadline definido.
+- **Colección NFL x Bernabéu** — Lanzamiento de la colección. Sin deadline definido.
 - **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 
 ## Tareas puntuales — Otros
