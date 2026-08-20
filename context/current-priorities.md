@@ -35,7 +35,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
-- **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Sin deadline definido.
+- **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Deadline: septiembre de 2026.
 - **Colores de diseño NFL** — Definir con Alex Romano los colores de diseño para NFL. Sin deadline definido.
 - **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 
@@ -49,7 +49,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Semana del 23 de agosto de 2026 — Roborock, OK de Romano (aprobación RRSS)
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
-- Septiembre de 2026 — Banco de imágenes de Bernabéu
+- Septiembre de 2026 — Banco de imágenes de Bernabéu, RMTV espacio partido
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
