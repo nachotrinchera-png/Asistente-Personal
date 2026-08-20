@@ -39,10 +39,8 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 
 ## Tareas puntuales — Otros
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
-- **Ficha NFL web Bernabéu** — Cambiar la ficha de NFL en la web del Bernabéu. Deadline: próximo lunes.
 
 ## Deadlines clave
-- Próximo lunes — Ficha NFL en la web del Bernabéu
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
