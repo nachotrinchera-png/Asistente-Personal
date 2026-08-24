@@ -13,6 +13,7 @@ _Actualizado: 2026-07-23_
 7. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
+- **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
 - **Rótulo EA FC** — Urgente, revisar con Nacho el tema del rótulo en el EA FC. Deadline: mañana.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
