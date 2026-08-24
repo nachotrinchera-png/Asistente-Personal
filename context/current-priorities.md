@@ -14,7 +14,7 @@ _Actualizado: 2026-07-23_
 
 ## Tareas puntuales — Patrocinio
 - **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
-- **Rótulo EA FC** — Urgente, revisar con Nacho el tema del rótulo en el EA FC. Deadline: mañana.
+- **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
 - **Unicaja** — Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa; coordinar con Alex y Reyes el tema digital. Deadline: 1 de agosto.
@@ -49,7 +49,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
 
 ## Deadlines clave
-- Mañana — Rótulo EA FC (revisar con Nacho)
 - Final de semana — Director de seguridad al Tour, presupuesto draft NFL Fantasy
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
