@@ -28,7 +28,6 @@ _Actualizado: 2026-07-23_
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
-- **Hisense** — Contenido con planos aéreos de Bernabéu. Pendiente de que Romano dé el OK. Sin fecha objetivo definida.
 
 ## Tareas puntuales — NFL
 - **Director de seguridad al Tour** — Llevar al director de seguridad al Tour para que vea la seguridad. Deadline: final de semana.

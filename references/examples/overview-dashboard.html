@@ -295,6 +295,12 @@
     font-size: 0.8rem !important;
   }
   .item-next strong { color: var(--ink-2); font-weight: 600; }
+  .empty-note {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--ink-muted);
+    font-style: italic;
+  }
   .item-next a {
     color: var(--column-accent);
     font-weight: 600;
@@ -632,14 +638,7 @@
 
     <section class="column" style="--column-accent: var(--accent-approvals)">
       <h2>Aprobaciones RRSS</h2>
-      <ul class="nodate-list">
-        <li class="item-card">
-          <div class="item-head"><span class="item-tag">Contenido</span></div>
-          <h3>Hisense</h3>
-          <p>Contenido con planos aéreos de Bernabéu.</p>
-          <p class="item-next"><strong>Siguiente paso:</strong> pendiente de que Romano dé el OK.</p>
-        </li>
-      </ul>
+      <p class="empty-note">Sin contenidos pendientes de OK ahora mismo.</p>
     </section>
 
     <section class="column" style="--column-accent: var(--accent-other)">
