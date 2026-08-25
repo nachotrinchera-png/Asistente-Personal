@@ -28,7 +28,6 @@ _Actualizado: 2026-07-23_
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
-- **Roborock** — Vídeo de la roomba aspirando en el Bernabéu, Instagram. Pendiente de que Romano dé el OK. Fecha objetivo: semana del 23 de agosto.
 - **Hisense** — Contenido con planos aéreos de Bernabéu. Pendiente de que Romano dé el OK. Sin fecha objetivo definida.
 
 ## Tareas puntuales — NFL
@@ -55,7 +54,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
-- Semana del 23 de agosto de 2026 — Roborock, OK de Romano (aprobación RRSS)
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu, RMTV espacio partido
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
