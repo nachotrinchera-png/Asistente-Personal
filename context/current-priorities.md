@@ -21,7 +21,7 @@ _Actualizado: 2026-07-23_
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 - **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
 - **Banco de imágenes** — Crear banco de imágenes de Bernabéu para Patrocinio. Deadline: septiembre de 2026.
-- **Bebidas Spirits** — Follow up con bebidas spirits; contestar por parte de F&B las dudas de patrocinio. Sin deadline definido.
+- **Bebidas Spirits** — Diageo ha dicho que no, se activa la opción de Pernod Ricard. Follow up con Sergio, Pablo y Borja para próximos pasos. Sin deadline definido.
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
 - **Uber Eats** — Importante. Evento del anuncio el 11 de septiembre en el Bernabéu, con el Director General de Uber Eats y Emilio Butragueño. Contenido embargado hasta el anuncio, semana del 14 de septiembre. Deadline: hablar con Anas y María la semana que viene sobre cómo meter el logo del Bernabéu.
 - **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
