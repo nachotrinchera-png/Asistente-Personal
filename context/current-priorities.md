@@ -46,11 +46,12 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Watchparty México** — NFL México dio el OK a la Watchparty en México (Madridistas x NFL). Follow up pendiente: falta identificar quién se encarga de activarlo. Sin deadline definido.
 
 ## Tareas puntuales — Otros
+- **Videos LVL 7 Tour** — Pendiente de recibir respuesta por parte de B.Studios. Deadline: final de semana.
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 
 ## Deadlines clave
-- Final de semana — Director de seguridad al Tour, presupuesto draft NFL Fantasy
+- Final de semana — Director de seguridad al Tour, presupuesto draft NFL Fantasy, videos LVL 7 Tour
 - Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
