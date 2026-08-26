@@ -23,7 +23,7 @@ _Actualizado: 2026-07-23_
 - **Banco de imágenes** — Crear banco de imágenes de Bernabéu para Patrocinio. Deadline: septiembre de 2026.
 - **Bebidas Spirits** — Follow up con bebidas spirits; contestar por parte de F&B las dudas de patrocinio. Sin deadline definido.
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
-- **Uber Eats** — Follow up con Sergio/Ángel. Sin deadline definido.
+- **Uber Eats** — Importante. Evento del anuncio el 11 de septiembre en el Bernabéu, con el Director General de Uber Eats y Emilio Butragueño. Contenido embargado hasta el anuncio, semana del 14 de septiembre. Deadline: hablar con Anas y María la semana que viene sobre cómo meter el logo del Bernabéu.
 - **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
@@ -49,12 +49,15 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 
 ## Deadlines clave
 - Final de semana — Director de seguridad al Tour, presupuesto draft NFL Fantasy
+- Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
+- 11 de septiembre de 2026 — Evento del anuncio Uber Eats x Bernabéu (Dir. Gral. Uber Eats y Emilio Butragueño)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu, RMTV espacio partido
+- Semana del 14 de septiembre de 2026 — Anuncio Uber Eats (contenido embargado hasta entonces)
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
