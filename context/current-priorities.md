@@ -47,6 +47,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Watchparty México** — NFL México dio el OK a la Watchparty en México (Madridistas x NFL). Follow up pendiente: falta identificar quién se encarga de activarlo. Sin deadline definido.
 
 ## Tareas puntuales — Otros
+- **Branding Bernabéu** — Lo más importante de todas las tareas ahora mismo: revisar los elementos de branding del Bernabéu. Sin deadline definido.
 - **Videos LVL 7 Tour** — Pendiente de recibir respuesta por parte de B.Studios. Deadline: final de semana.
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
