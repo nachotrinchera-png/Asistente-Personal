@@ -13,8 +13,6 @@ _Actualizado: 2026-07-23_
 7. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
-- **Escaleta evento HP** — Pedir la escaleta del evento de HP. Deadline: hoy.
-- **Mensajes a Miguel Ángel** — Muy urgente, mandar mensajes a Miguel Ángel. Deadline: mañana.
 - **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
@@ -53,8 +51,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 
 ## Deadlines clave
-- Hoy — Escaleta evento HP
-- Mañana — Mensajes a Miguel Ángel
 - Final de semana — Presupuesto draft NFL Fantasy, videos LVL 7 Tour
 - Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
