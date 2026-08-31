@@ -40,7 +40,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Deadline: septiembre de 2026.
 - **Colores de diseño NFL** — Definir con Alex Romano los colores de diseño para NFL. Sin deadline definido.
-- **Colección NFL x Bernabéu** — Lanzamiento de la colección. Sin deadline definido.
+- **Colección NFL x Bernabéu** — Lanzamiento de la colección. Previsiblemente se venderá a mediados de octubre. Deadline: mediados de octubre de 2026.
 - **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 - **Watchparty México** — NFL México dio el OK a la Watchparty en México (Madridistas x NFL). Follow up pendiente: falta identificar quién se encarga de activarlo. Sin deadline definido.
 
@@ -63,6 +63,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Semana del 14 de septiembre de 2026 — Anuncio Uber Eats (contenido embargado hasta entonces)
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
+- Mediados de octubre de 2026 — Colección NFL x Bernabéu (venta prevista)
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
 
 ## Nota
