@@ -17,7 +17,7 @@ _Actualizado: 2026-07-23_
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
-- **Unicaja** — Follow up de la activación en partido dedicado: B.Studios debe mandar los costes a Carrizosa; coordinar con Alex y Reyes el tema digital. Deadline: 1 de agosto.
+- **Orange** — Sin deadline definido.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 - **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
 - **Banco de imágenes** — Crear banco de imágenes de Bernabéu para Patrocinio. Deadline: septiembre de 2026.
@@ -54,7 +54,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
-- 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
+- 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
@@ -66,4 +66,4 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Octubre-noviembre 2026 — Tour NFL (tentativo)
 
 ## Nota
-BMW rótulo, Unicaja y Pieza NFL x Bernabéu tienen deadline el 1 de agosto, justo el día en que Nacho empieza sus vacaciones. En la práctica conviene cerrarlos o dejarlos delegados antes del 31 de julio.
+BMW rótulo y Pieza NFL x Bernabéu tenían deadline el 1 de agosto, el día en que Nacho empezó sus vacaciones.
