@@ -2,7 +2,7 @@
 
 Diseño de todos los elementos con marca Bernabéu para el partido de NFL (vasos, minutas VIP, decoración de barras).
 
-**Estado:** Activo
+**Estado:** Archivado (quitado del overview el 31 de agosto de 2026)
 
 **Deadline clave:** No especificada
 

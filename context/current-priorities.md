@@ -6,11 +6,10 @@ _Actualizado: 2026-07-23_
 
 1. **Bernabéu Studios x Patrocinio (juegos CUE)** — Cerrar la activación de patrocinadores en los juegos de CUE para partidos dedicados. Urgente, deadline 20 de agosto de 2026.
 2. **NFL — Campaña VIP** — Captación y conversión de leads para venta de hospitality del partido de NFL.
-3. **NFL — Branding** — Diseño de elementos de marca Bernabéu para NFL (vasos, minutas VIP, decoración de barras).
-4. **NFL — Contenidos RRSS** — Contenidos de redes sociales relacionados con NFL en cuentas del Bernabéu.
-5. **NFL — Madridistas** — Acciones conjuntas con la comunidad Madridista (BBDD) y NFL.
-6. **NFL — Watchparty** — Posible watchparty en el Bernabéu (tentativo, 27 de septiembre de 2026).
-7. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
+3. **NFL — Contenidos RRSS** — Contenidos de redes sociales relacionados con NFL en cuentas del Bernabéu.
+4. **NFL — Madridistas** — Acciones conjuntas con la comunidad Madridista (BBDD) y NFL.
+5. **NFL — Watchparty** — Posible watchparty en el Bernabéu (tentativo, 27 de septiembre de 2026).
+6. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
 - **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
@@ -38,8 +37,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Deadline: septiembre de 2026.
-- **Branding: diseños confirmados** — Pendiente de que Michael O'Donnell confirme qué cosas ya están diseñadas, para poder pedirlas. Sin deadline definido.
-- **Branding: vasos y frontal GA** — Pendiente de que Legends conteste con el diseño de vasos y frontal de las barras de GA. Sin deadline definido.
 - **Colección NFL x Bernabéu** — Lanzamiento de la colección. Previsiblemente se venderá a mediados de octubre. Deadline: mediados de octubre de 2026.
 - **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 - **Watchparty México** — NFL México dio el OK a la Watchparty en México (Madridistas x NFL). Follow up pendiente: falta identificar quién se encarga de activarlo. Sin deadline definido.
