@@ -32,7 +32,7 @@ _Actualizado: 2026-07-23_
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
 
 ## Tareas puntuales — NFL
-- **Presupuesto draft NFL Fantasy** — Mandar presupuesto a NFL sobre el espacio para el draft NFL Fantasy en el Bernabéu. Deadline: final de semana.
+- **Presupuesto draft NFL Fantasy** — Follow up. Sin deadline definido.
 - **Ticketmaster** — Recordar a Lina el cambio de Ticketmaster. Deadline: 18 de agosto.
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
@@ -51,7 +51,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 
 ## Deadlines clave
-- Final de semana — Presupuesto draft NFL Fantasy, videos LVL 7 Tour
+- Final de semana — Videos LVL 7 Tour
 - Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Unicaja, Pieza NFL x Bernabéu
