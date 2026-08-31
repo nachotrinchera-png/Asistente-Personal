@@ -37,9 +37,9 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
-- **Fotos landing VIP** — Cambiar las fotos de la landing VIP de NFL. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Deadline: septiembre de 2026.
-- **Colores de diseño NFL** — Definir con Alex Romano los colores de diseño para NFL. Sin deadline definido.
+- **Branding: diseños confirmados** — Pendiente de que Michael O'Donnell confirme qué cosas ya están diseñadas, para poder pedirlas. Sin deadline definido.
+- **Branding: vasos y frontal GA** — Pendiente de que Legends conteste con el diseño de vasos y frontal de las barras de GA. Sin deadline definido.
 - **Colección NFL x Bernabéu** — Lanzamiento de la colección. Previsiblemente se venderá a mediados de octubre. Deadline: mediados de octubre de 2026.
 - **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 - **Watchparty México** — NFL México dio el OK a la Watchparty en México (Madridistas x NFL). Follow up pendiente: falta identificar quién se encarga de activarlo. Sin deadline definido.
