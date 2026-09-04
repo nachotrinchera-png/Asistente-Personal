@@ -41,6 +41,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Halftime show** — Follow up al anuncio del halftime show. Deadline: segunda quincena de septiembre.
 - **Watchparty México** — NFL México dio el OK a la Watchparty en México (Madridistas x NFL). Follow up pendiente: falta identificar quién se encarga de activarlo. Sin deadline definido.
 - **Adaptación pieza NFL al HALO Bernabéu** — Sin deadline definido.
+- **Packaging F&B con Legends** — Follow up al packaging de F&B y producción con Legends. Sin deadline definido.
 
 ## Tareas puntuales — Otros
 - **Branding Bernabéu** — Lo más importante de todas las tareas ahora mismo: revisar los elementos de branding del Bernabéu. Sin deadline definido.
