@@ -25,6 +25,7 @@ _Actualizado: 2026-07-23_
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
 - **Uber Eats** — Importante. Evento del anuncio el 11 de septiembre en el Bernabéu, con el Director General de Uber Eats y Emilio Butragueño. Contenido embargado hasta el anuncio, semana del 14 de septiembre. Deadline: hablar con Anas y María la semana que viene sobre cómo meter el logo del Bernabéu.
 - **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
+- **Claim Prezero papeleras** — Ver con Anastasia el tema del claim de Prezero para las papeleras. Sin deadline definido.
 - **Infotainment HP** — Perseguir a B.Studios para el infotainment de HP. Sin deadline definido.
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
 
