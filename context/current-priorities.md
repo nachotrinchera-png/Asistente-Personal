@@ -49,6 +49,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Videos LVL 7 Tour** — Pendiente de recibir respuesta por parte de B.Studios. Deadline: final de semana.
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
+- **Tarjetas corporativas Pini** — Hacer las tarjetas corporativas. Sin deadline definido.
 
 ## Deadlines clave
 - Hoy — Denominación UBER
