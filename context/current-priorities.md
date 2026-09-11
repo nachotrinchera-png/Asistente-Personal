@@ -28,6 +28,7 @@ _Actualizado: 2026-07-23_
 - **Claim Prezero papeleras** — Ver con Anastasia el tema del claim de Prezero para las papeleras. Sin deadline definido.
 - **Infotainment HP** — Perseguir a B.Studios para el infotainment de HP. Sin deadline definido.
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
+- **Documento localización vs marca** — Sin deadline definido.
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
