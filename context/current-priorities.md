@@ -25,7 +25,7 @@ _Actualizado: 2026-07-23_
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
 - **Uber Eats** — Importante. Evento del anuncio el 11 de septiembre en el Bernabéu, con el Director General de Uber Eats y Emilio Butragueño. Contenido embargado hasta el anuncio, semana del 14 de septiembre. Deadline: hablar con Anas y María la semana que viene sobre cómo meter el logo del Bernabéu.
 - **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
-- **Claim Prezero papeleras** — Ver con Anastasia el tema del claim de Prezero para las papeleras. Sin deadline definido.
+- **Claim Prezero papeleras** — Ver con Anastasia el tema del claim de Prezero para las papeleras. Deadline: semana que viene.
 - **Infotainment HP** — Perseguir a B.Studios para el infotainment de HP. Sin deadline definido.
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
 - **Documento localización vs marca** — Sin deadline definido.
@@ -55,7 +55,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 ## Deadlines clave
 - Hoy — Denominación UBER
 - Final de semana — Videos LVL 7 Tour
-- Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu)
+- Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu), Claim Prezero papeleras (con Anastasia)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
