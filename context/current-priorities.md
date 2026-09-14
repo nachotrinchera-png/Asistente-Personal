@@ -12,6 +12,7 @@ _Actualizado: 2026-07-23_
 6. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
+- **Acción con Ale Galán** — Urgente. Deadline: mañana.
 - **Denominación UBER** — Urgente, ver con Nacho la denominación de Uber. Deadline: hoy.
 - **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
@@ -54,6 +55,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
 
 ## Deadlines clave
+- Mañana — Acción con Ale Galán
 - Hoy — Denominación UBER
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu), Claim Prezero papeleras (con Anastasia)
