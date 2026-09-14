@@ -51,6 +51,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 - **Tarjetas corporativas Pini** — Hacer las tarjetas corporativas. Sin deadline definido.
+- **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
 
 ## Deadlines clave
 - Hoy — Denominación UBER
