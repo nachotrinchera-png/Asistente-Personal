@@ -35,6 +35,7 @@ _Actualizado: 2026-07-23_
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
 
 ## Tareas puntuales — NFL
+- **Cobertura RM y acreditaciones** — Mandar email a Gonzalo preguntando por la cobertura del Real Madrid para el partido, y ver el tema de acreditaciones. Sin deadline definido.
 - **Ticketmaster** — Recordar a Lina el cambio de Ticketmaster. Deadline: 18 de agosto.
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
