@@ -34,7 +34,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 
 ## Tareas puntuales — NFL
 - **Cobertura RM y acreditaciones** — Mandar email a Gonzalo preguntando por la cobertura del Real Madrid para el partido, y ver el tema de acreditaciones. Sin deadline definido.
-- **Ticketmaster** — Recordar a Lina el cambio de Ticketmaster. Deadline: 18 de agosto.
 - **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
@@ -60,7 +59,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
-- 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu, RMTV espacio partido
