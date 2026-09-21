@@ -12,19 +12,16 @@ _Actualizado: 2026-07-23_
 6. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
-- **Acción con Ale Galán** — Urgente. Deadline: mañana.
-- **Denominación UBER** — Urgente, ver con Nacho la denominación de Uber. Deadline: hoy.
+- **Acción con Ale Galán** — Follow up al contenido. Pendiente de revisar por Bernabéu. Sin deadline definido.
 - **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
-- **Orange** — Sin deadline definido.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 - **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
 - **Banco de imágenes** — Crear banco de imágenes de Bernabéu para Patrocinio. Deadline: septiembre de 2026.
 - **Bebidas Spirits** — Diageo ha dicho que no, se activa la opción de Pernod Ricard. Follow up con Sergio, Pablo y Borja para próximos pasos. Sin deadline definido.
 - **UTV Bernabéu x EA FC** — Follow up. Petición hecha a Calleja, que debe hablarlo con Chiara y Vitores para ver si se consigue un octavo hueco. Sin deadline definido.
-- **Uber Eats** — Importante. Evento del anuncio el 11 de septiembre en el Bernabéu, con el Director General de Uber Eats y Emilio Butragueño. Contenido embargado hasta el anuncio, semana del 14 de septiembre. Deadline: hablar con Anas y María la semana que viene sobre cómo meter el logo del Bernabéu.
 - **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
 - **Claim Prezero papeleras** — Ver con Anastasia el tema del claim de Prezero para las papeleras. Deadline: semana que viene.
 - **Infotainment HP** — Perseguir a B.Studios para el infotainment de HP. Sin deadline definido.
@@ -56,18 +53,14 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
 
 ## Deadlines clave
-- Mañana — Acción con Ale Galán
-- Hoy — Denominación UBER
 - Final de semana — Videos LVL 7 Tour
-- Semana que viene — Uber Eats (hablar con Anas y María sobre el logo del Bernabéu), Claim Prezero papeleras (con Anastasia)
+- Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 18 de agosto de 2026 — Ticketmaster (recordar a Lina)
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
-- 11 de septiembre de 2026 — Evento del anuncio Uber Eats x Bernabéu (Dir. Gral. Uber Eats y Emilio Butragueño)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu, RMTV espacio partido
-- Semana del 14 de septiembre de 2026 — Anuncio Uber Eats (contenido embargado hasta entonces)
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Mediados de octubre de 2026 — Colección NFL x Bernabéu (venta prevista)
