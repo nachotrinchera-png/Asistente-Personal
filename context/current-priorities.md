@@ -13,6 +13,7 @@ _Actualizado: 2026-07-23_
 
 ## Tareas puntuales — Patrocinio
 - **Acción con Ale Galán** — Follow up al contenido. Pendiente de revisar por Bernabéu. Sin deadline definido.
+- **Informe impacto Ale Galán** — Sin deadline definido.
 - **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
@@ -48,6 +49,8 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Branding Bernabéu** — Lo más importante de todas las tareas ahora mismo: revisar los elementos de branding del Bernabéu. Sin deadline definido.
 - **Videos LVL 7 Tour** — Pendiente de recibir respuesta por parte de B.Studios. Deadline: final de semana.
 - **Santos Bravos** — Gestionar visita de Santos Bravos al Bernabéu. Sin deadline definido. [Instagram](https://www.instagram.com/santos_bravos/?hl=es)
+- **Informe impacto visita Santos Bravos** — Sin deadline definido.
+- **Informe impacto visita Ferrari** — Sin deadline definido.
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 - **Tarjetas corporativas Pini** — Hacer las tarjetas corporativas. Sin deadline definido.
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
