@@ -2,7 +2,7 @@
 
 Posible exposición temporal de NFL en el Tour del Bernabéu.
 
-**Estado:** Planificación (tentativo)
+**Estado:** Archivado (quitado del overview el 21 de septiembre de 2026)
 
 **Deadline clave:** Octubre-noviembre 2026
 

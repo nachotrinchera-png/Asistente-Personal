@@ -9,7 +9,6 @@ _Actualizado: 2026-07-23_
 3. **NFL — Contenidos RRSS** — Contenidos de redes sociales relacionados con NFL en cuentas del Bernabéu.
 4. **NFL — Madridistas** — Acciones conjuntas con la comunidad Madridista (BBDD) y NFL.
 5. **NFL — Watchparty** — Posible watchparty en el Bernabéu (tentativo, 27 de septiembre de 2026).
-6. **NFL — Tour** — Posible exposición temporal de NFL en el Tour (tentativo, octubre-noviembre 2026).
 
 ## Tareas puntuales — Patrocinio
 - **Acción con Ale Galán** — Follow up al contenido. Pendiente de revisar por Bernabéu. Sin deadline definido.
@@ -34,7 +33,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 
 ## Tareas puntuales — NFL
 - **Cobertura RM y acreditaciones** — Mandar email a Gonzalo preguntando por la cobertura del Real Madrid para el partido, y ver el tema de acreditaciones. Sin deadline definido.
-- **Tour NFL — medidas** — Recordar a The Team que mande las medidas para valorar el montaje. Deadline: 29 de julio.
 - **Pieza NFL x Bernabéu** — Romano debe compartir el plan de lanzamiento. Recordatorio enviado el 23 de julio, pendiente de respuesta. Deadline: 1 de agosto.
 - **VIP creative assets** — Recibir los creative assets de VIP. Sin deadline definido.
 - **RMTV espacio partido** — Hablar con Lina sobre el espacio de RMTV el día del partido. Deadline: septiembre de 2026.
@@ -57,7 +55,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 ## Deadlines clave
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
-- 29 de julio de 2026 — Tour NFL (recordar medidas a The Team)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
@@ -65,7 +62,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
 - 27 de septiembre de 2026 — Watchparty NFL (tentativo)
 - Mediados de octubre de 2026 — Colección NFL x Bernabéu (venta prevista)
-- Octubre-noviembre 2026 — Tour NFL (tentativo)
 
 ## Nota
 BMW rótulo y Pieza NFL x Bernabéu tenían deadline el 1 de agosto, el día en que Nacho empezó sus vacaciones.
