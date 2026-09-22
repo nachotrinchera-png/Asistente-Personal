@@ -13,7 +13,6 @@ _Actualizado: 2026-07-23_
 ## Tareas puntuales — Patrocinio
 - **Acción con Ale Galán** — Follow up al contenido. Pendiente de revisar por Bernabéu. Sin deadline definido.
 - **Informe impacto Ale Galán** — Sin deadline definido.
-- **Evento HP F1** — Importante, follow up al evento de HP de Fórmula 1. Saber si viene Hamilton. Sin deadline definido.
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
 - **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
