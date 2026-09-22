@@ -28,6 +28,7 @@ _Actualizado: 2026-07-23_
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
 - **Documento localización vs marca** — Sin deadline definido.
 - **Reunión música** — Con Paula Serrano, Adolfo y Nacho. Sin deadline definido.
+- **Activaciones HP en Estadio** — Ver con Nacho Pérez. Deadline: lunes que viene (28 de septiembre).
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
@@ -56,6 +57,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 ## Deadlines clave
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
+- 28 de septiembre de 2026 — Activaciones HP en Estadio (ver con Nacho Pérez)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
