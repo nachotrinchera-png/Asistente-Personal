@@ -28,6 +28,7 @@ _Actualizado: 2026-07-23_
 - **Documento localización vs marca** — Sin deadline definido.
 - **Reunión música** — Con Paula Serrano, Adolfo y Nacho. Deadline: miércoles de la semana que viene (30 de septiembre).
 - **Activaciones HP en Estadio** — Ver con Nacho Pérez. Deadline: lunes que viene (28 de septiembre).
+- **Idea de contenido para Uber** — Recordar a Alex mandarla. Deadline: jueves (24 de septiembre).
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
@@ -54,6 +55,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
 
 ## Deadlines clave
+- 24 de septiembre de 2026 — Idea de contenido para Uber (recordar a Alex)
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 28 de septiembre de 2026 — Activaciones HP en Estadio (ver con Nacho Pérez)
