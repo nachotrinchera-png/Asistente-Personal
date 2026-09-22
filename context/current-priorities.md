@@ -26,7 +26,7 @@ _Actualizado: 2026-07-23_
 - **Infotainment HP** — Perseguir a B.Studios para el infotainment de HP. Sin deadline definido.
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
 - **Documento localización vs marca** — Sin deadline definido.
-- **Reunión música** — Con Paula Serrano, Adolfo y Nacho. Sin deadline definido.
+- **Reunión música** — Con Paula Serrano, Adolfo y Nacho. Deadline: miércoles de la semana que viene (30 de septiembre).
 - **Activaciones HP en Estadio** — Ver con Nacho Pérez. Deadline: lunes que viene (28 de septiembre).
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
@@ -57,6 +57,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 28 de septiembre de 2026 — Activaciones HP en Estadio (ver con Nacho Pérez)
+- 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
