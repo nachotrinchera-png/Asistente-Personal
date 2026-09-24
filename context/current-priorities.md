@@ -54,6 +54,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 - **Tarjetas corporativas Pini** — Hacer las tarjetas corporativas. Sin deadline definido.
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
+- **Visita Amazon** — Gestionar visita de Amazon al Bernabéu. Ver con Michael y MICE. Deadline: viernes 2 de octubre, 10:00.
 
 ## Deadlines clave
 - 24 de septiembre de 2026 — Idea de contenido para Uber (recordar a Alex)
@@ -61,6 +62,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 28 de septiembre de 2026 — Activaciones HP en Estadio (ver con Nacho Pérez)
 - 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
+- 2 de octubre de 2026 — Visita Amazon, 10:00 (Michael, MICE)
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
