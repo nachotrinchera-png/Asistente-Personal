@@ -29,6 +29,7 @@ _Actualizado: 2026-07-23_
 - **Reunión música** — Con Paula Serrano, Adolfo y Nacho. Deadline: miércoles de la semana que viene (30 de septiembre).
 - **Activaciones HP en Estadio** — Ver con Nacho Pérez. Deadline: lunes que viene (28 de septiembre).
 - **Idea de contenido para Uber** — Recordar a Alex mandarla. Deadline: jueves (24 de septiembre).
+- **Definir regalo patrocinadores Bernabéu** — Deadline: viernes de esta semana (2 de octubre).
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
@@ -44,6 +45,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Adaptación pieza NFL al HALO Bernabéu** — Sin deadline definido.
 - **Packaging F&B con Legends** — Follow up al packaging de F&B y producción con Legends. Sin deadline definido.
 - **Email a Emily (Falcons)** — Enviar email a Emily Falcons para el tema de Madridistas. Sin deadline definido.
+- **Diseño acreditaciones Bernabéu NFL Madrid Game** — Deadline: viernes de esta semana (2 de octubre).
 
 ## Tareas puntuales — Otros
 - **Branding Bernabéu** — Lo más importante de todas las tareas ahora mismo: revisar los elementos de branding del Bernabéu. Sin deadline definido.
@@ -62,7 +64,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 28 de septiembre de 2026 — Activaciones HP en Estadio (ver con Nacho Pérez)
 - 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
-- 2 de octubre de 2026 — Visita Amazon, 10:00 (Michael, MICE)
+- 2 de octubre de 2026 — Visita Amazon, 10:00 (Michael, MICE); Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
