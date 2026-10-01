@@ -27,7 +27,7 @@ _Actualizado: 2026-07-23_
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
 - **Documento localización vs marca** — Sin deadline definido.
 - **Reunión música** — Con Paula Serrano, Adolfo y Nacho. Deadline: miércoles de la semana que viene (30 de septiembre).
-- **Activaciones HP en Estadio** — Ver con Nacho Pérez. Deadline: lunes que viene (28 de septiembre).
+- **Activaciones HP en Estadio** — Follow up con Pablo Martínez a ver cuándo se van a instalar. Sin deadline definido.
 - **Idea de contenido para Uber** — Recordar a Alex mandarla. Deadline: jueves (24 de septiembre).
 - **Definir regalo patrocinadores Bernabéu** — Deadline: viernes de esta semana (2 de octubre).
 - **Cerrar reunión Adolfo + Mutua patrocinadores** — Deadline: viernes de esta semana (2 de octubre).
@@ -64,7 +64,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - 24 de septiembre de 2026 — Idea de contenido para Uber (recordar a Alex)
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
-- 28 de septiembre de 2026 — Activaciones HP en Estadio (ver con Nacho Pérez)
 - 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
 - 2 de octubre de 2026 — Visita Amazon, 10:00 (Michael, MICE); Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu; Cerrar reunión Adolfo + Mutua patrocinadores; Crear paquetes de naming rights
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
