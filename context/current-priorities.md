@@ -4,17 +4,15 @@ _Actualizado: 2026-07-23_
 
 **Vacaciones de Nacho:** 1 al 15 de agosto de 2026.
 
-1. **Bernabéu Studios x Patrocinio (juegos CUE)** — Cerrar la activación de patrocinadores en los juegos de CUE para partidos dedicados. Urgente, deadline 20 de agosto de 2026.
-2. **NFL — Campaña VIP** — Captación y conversión de leads para venta de hospitality del partido de NFL.
-3. **NFL — Contenidos RRSS** — Contenidos de redes sociales relacionados con NFL en cuentas del Bernabéu.
-4. **NFL — Madridistas** — Acciones conjuntas con la comunidad Madridista (BBDD) y NFL.
-5. **NFL — Watchparty** — Posible watchparty en el Bernabéu (tentativo, 27 de septiembre de 2026).
+1. **NFL — Campaña VIP** — Captación y conversión de leads para venta de hospitality del partido de NFL.
+2. **NFL — Contenidos RRSS** — Contenidos de redes sociales relacionados con NFL en cuentas del Bernabéu.
+3. **NFL — Madridistas** — Acciones conjuntas con la comunidad Madridista (BBDD) y NFL.
+4. **NFL — Watchparty** — Posible watchparty en el Bernabéu (tentativo, 27 de septiembre de 2026).
 
 ## Tareas puntuales — Patrocinio
 - **Acción con Ale Galán** — Follow up al contenido. Pendiente de revisar por Bernabéu. Sin deadline definido.
 - **Informe impacto Ale Galán** — Sin deadline definido.
 - **Rótulo EA FC** — Decidido: se hará un parche nuevo cuando se actualice el rótulo. Sin deadline definido, pendiente de esa actualización.
-- **Valoraciones** — Urgente, trabajar las valoraciones con Fernando y Josep. Sin fecha concreta, pero urgente.
 - **BMW rótulo** — Se enviaron a Apple Tree las especificaciones de lo que hace BMW para que preparen el mensaje. Pendiente de su propuesta. Deadline: 1 de agosto.
 - **Pantallas GA** — Incluir marcas de patrocinadores en los contenidos de las pantallas de las barras de GA. Deadline: primer partido de temporada (finales de agosto).
 - **Naming rights** — Revisar el documento de naming rights con Chiara. Deadline: 20 de agosto (a la vuelta de vacaciones).
@@ -67,7 +65,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
 - 2 de octubre de 2026 — Visita Amazon, 10:00 (Michael, MICE); Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu; Cerrar reunión Adolfo + Mutua patrocinadores; Crear paquetes de naming rights
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
-- 20 de agosto de 2026 — Bernabéu Studios x CUE, naming rights con Chiara
+- 20 de agosto de 2026 — Naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
 - Septiembre de 2026 — Banco de imágenes de Bernabéu, RMTV espacio partido
 - Segunda quincena de septiembre de 2026 — Halftime show (follow up al anuncio)
