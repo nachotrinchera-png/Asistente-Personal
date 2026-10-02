@@ -28,6 +28,7 @@ _Actualizado: 2026-07-23_
 - **Definir regalo patrocinadores Bernabéu** — Deadline: viernes de esta semana (2 de octubre).
 - **Cerrar reunión Adolfo + Mutua patrocinadores** — Deadline: viernes de esta semana (2 de octubre).
 - **Crear paquetes de naming rights** — Deadline: viernes de esta semana (2 de octubre).
+- **Lista regalos Navidad** — Sin deadline definido.
 
 ## Aprobaciones RRSS pendientes (Patrocinio)
 Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK de Romano antes de publicarse. Fuente: Excel "Seguimiento RRSS_Patrocinios" en SharePoint (CSC9/MarketingRME). Sin conector activo por política de ciberseguridad, así que Nacho reporta las novedades directamente en el check-in.
