@@ -47,21 +47,19 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - **Diseño acreditaciones Bernabéu NFL Madrid Game** — Deadline: viernes de esta semana (2 de octubre).
 
 ## Tareas puntuales — Otros
-- **Branding Bernabéu** — Lo más importante de todas las tareas ahora mismo: revisar los elementos de branding del Bernabéu. Sin deadline definido.
 - **Videos LVL 7 Tour** — Pendiente de recibir respuesta por parte de B.Studios. Deadline: final de semana.
 - **Informe impacto visita Santos Bravos** — Sin deadline definido.
 - **Informe impacto visita Ferrari** — Sin deadline definido.
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 - **Tarjetas corporativas Pini** — Hacer las tarjetas corporativas. Sin deadline definido.
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
-- **Visita Amazon** — Gestionar visita de Amazon al Bernabéu. Ver con Michael y MICE. Deadline: viernes 2 de octubre, 10:00.
 
 ## Deadlines clave
 - 24 de septiembre de 2026 — Idea de contenido para Uber (recordar a Alex)
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
-- 2 de octubre de 2026 — Visita Amazon, 10:00 (Michael, MICE); Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu; Cerrar reunión Adolfo + Mutua patrocinadores; Crear paquetes de naming rights
+- 2 de octubre de 2026 — Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu; Cerrar reunión Adolfo + Mutua patrocinadores; Crear paquetes de naming rights
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
