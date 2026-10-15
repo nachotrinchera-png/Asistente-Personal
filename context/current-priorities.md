@@ -26,7 +26,6 @@ _Actualizado: 2026-07-23_
 - **Activaciones HP en Estadio** — Follow up con Pablo Martínez a ver cuándo se van a instalar. Sin deadline definido.
 - **Idea de contenido para Uber** — Recordar a Alex mandarla. Deadline: jueves (24 de septiembre).
 - **Definir regalo patrocinadores Bernabéu** — Deadline: viernes de esta semana (2 de octubre).
-- **Cerrar reunión Adolfo + Mutua patrocinadores** — Deadline: viernes de esta semana (2 de octubre).
 - **Crear paquetes de naming rights** — Deadline: viernes de esta semana (2 de octubre).
 - **Lista regalos Navidad** — Sin deadline definido.
 
@@ -59,7 +58,7 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 - Final de semana — Videos LVL 7 Tour
 - Semana que viene — Claim Prezero papeleras (con Anastasia)
 - 30 de septiembre de 2026 — Reunión música (Paula Serrano, Adolfo, Nacho)
-- 2 de octubre de 2026 — Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu; Cerrar reunión Adolfo + Mutua patrocinadores; Crear paquetes de naming rights
+- 2 de octubre de 2026 — Diseño acreditaciones Bernabéu NFL Madrid Game; Definir regalo patrocinadores Bernabéu; Crear paquetes de naming rights
 - 1 de agosto de 2026 — BMW rótulo, Pieza NFL x Bernabéu
 - 20 de agosto de 2026 — Naming rights con Chiara
 - Finales de agosto de 2026 — Pantallas GA (primer partido de temporada)
