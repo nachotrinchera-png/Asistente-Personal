@@ -47,8 +47,6 @@ Contenidos que Patrocinio envía con presencia del Bernabéu, pendientes del OK 
 
 ## Tareas puntuales — Otros
 - **Videos LVL 7 Tour** — Pendiente de recibir respuesta por parte de B.Studios. Deadline: final de semana.
-- **Informe impacto visita Santos Bravos** — Sin deadline definido.
-- **Informe impacto visita Ferrari** — Sin deadline definido.
 - **Ofertas F&B, Juegos CUE** — Follow up de las ofertas de F&B para los Juegos CUE. Sin deadline definido.
 - **Tarjetas corporativas Pini** — Hacer las tarjetas corporativas. Sin deadline definido.
 - **Datos de entrada al Bernabéu** — Pedir a Carmen Álvarez los datos de entrada al Bernabéu. Sin deadline definido.
