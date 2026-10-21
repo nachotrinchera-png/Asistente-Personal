@@ -19,6 +19,7 @@ _Actualizado: 2026-07-23_
 - **Banco de imágenes** — Crear banco de imágenes de Bernabéu para Patrocinio. Deadline: septiembre de 2026.
 - **Bebidas Spirits** — Diageo ha dicho que no, se activa la opción de Pernod Ricard. Follow up con Sergio, Pablo y Borja para próximos pasos. Sin deadline definido.
 - **Prezero** — Gestionar el anuncio de Prezero. Sin deadline definido.
+- **Aprobar nota de prensa de Prezero** — Sin deadline definido.
 - **Claim Prezero papeleras** — Ver con Anastasia el tema del claim de Prezero para las papeleras. Deadline: semana que viene.
 - **Infotainment HP** — Perseguir a B.Studios para el infotainment de HP. Sin deadline definido.
 - **B.Market pantallas** — Perseguir a Michael y Lucía Ocaña para desbloquear el tema del B.Market y sus pantallas. Sin deadline definido.
